@@ -11,6 +11,8 @@ body {
     min-height: 100vh;
     font-family: 'Roboto';
     margin: 0;
+    background-color: #101010;
+    color: #ffffff;
 }
 
 h3 {
